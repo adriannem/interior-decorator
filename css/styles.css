@@ -1,0 +1,56 @@
+h1 {
+  font-family: 'Freckle Face', cursive;
+  color: #cc0066;
+  text-align: center;
+}
+
+body {
+  font-size: 18px;
+}
+
+.main {
+  float: right;
+  padding: 20px;
+}
+
+
+
+.side {
+  float: left;
+  padding: 5px;
+}
+
+.banner {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 22px;
+  color: #cc0066;
+  padding: 10px;
+  text-align: center;
+}
+
+.top {
+  float: top;
+  align-self: center;
+  padding: 10px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
+
+.footer {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 22px;
+  color: #cc0066;
+  padding: 10px;
+  text-align: center;
+  float: right;
+}
+
+.list {
+  padding: 10px;
+}
