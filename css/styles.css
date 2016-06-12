@@ -36,21 +36,21 @@ body {
 }
 
 .column1 {
-  width: 25%;
+  width: 20%;
   float: left;
   padding: 2%;
   background-color: beige;
 }
 
 .column2 {
-  width: 25%;
+  width: 20%;
   float: left;
   padding: 2%;
   background-color: aquamarine;
 }
 
 .column3 {
-  width: 25%;
+  width: 20%;
   float: left;
   padding: 2%;
   background-color: darksalmon;
