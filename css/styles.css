@@ -10,14 +10,14 @@ body {
 
 .main {
   float: right;
-  padding: 20px;
+  padding: 2%;
 }
 
 
 
 .side {
   float: left;
-  padding: 5px;
+  padding: 2%;
 }
 
 .banner {
@@ -25,34 +25,34 @@ body {
   font-weight: bold;
   font-size: 22px;
   color: #cc0066;
-  padding: 10px;
+  padding: 0.5%;
   text-align: center;
 }
 
 .top {
   float: top;
   align-self: center;
-  padding: 10px;
+  padding: 2%;
 }
 
 .column1 {
-  width: 300px;
+  width: 25%;
   float: left;
-  padding: 10px;
+  padding: 2%;
   background-color: beige;
 }
 
 .column2 {
-  width: 300px;
+  width: 25%;
   float: left;
-  padding: 10px;
+  padding: 2%;
   background-color: aquamarine;
 }
 
 .column3 {
-  width: 300px;
+  width: 25%;
   float: left;
-  padding: 10px;
+  padding: 2%;
   background-color: darksalmon;
 }
 
@@ -61,11 +61,11 @@ body {
   font-weight: bold;
   font-size: 22px;
   color: #cc0066;
-  padding: 10px;
+  padding: 2%;
   text-align: center;
   float: right;
 }
 
 .list {
-  padding: 10px;
+  padding: 2%;
 }
